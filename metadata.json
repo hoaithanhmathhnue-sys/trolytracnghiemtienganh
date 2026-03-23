@@ -1,0 +1,5 @@
+{
+  "name": "QuizGen AI Assistant",
+  "description": "Convert documents and topics into interactive HTML oral tests for teachers.",
+  "requestFramePermissions": []
+}
