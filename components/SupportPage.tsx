@@ -18,14 +18,14 @@ const SupportPage: React.FC = () => {
                     </div>
                     <div className="flex-1">
                         <div className="text-sm font-medium text-teal-100 mb-1">APP AUTHOR / TÁC GIẢ ỨNG DỤNG</div>
-                        <h3 className="text-3xl font-black mb-4">Thầy Trần Hoài Thanh</h3>
+                        <h3 className="text-3xl font-black mb-4">Cô Thu Trang</h3>
 
                         <div className="space-y-3">
                             <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-lg p-3">
                                 <School className="w-5 h-5 flex-shrink-0" />
                                 <div>
                                     <div className="text-sm text-teal-100">School / Trường</div>
-                                    <div className="font-bold">THPT Khúc Thừa Dụ</div>
+                                    <div className="font-bold">THPT Sơn Dương</div>
                                 </div>
                             </div>
 
@@ -33,7 +33,7 @@ const SupportPage: React.FC = () => {
                                 <MapPin className="w-5 h-5 flex-shrink-0" />
                                 <div>
                                     <div className="text-sm text-teal-100">Address / Địa chỉ</div>
-                                    <div className="font-bold">Vĩnh Lại - TP Hải Phòng</div>
+                                    <div className="font-bold">Sơn Dương - Tuyên Quang</div>
                                 </div>
                             </div>
 
