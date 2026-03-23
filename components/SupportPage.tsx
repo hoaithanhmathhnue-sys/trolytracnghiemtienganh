@@ -37,19 +37,7 @@ const SupportPage: React.FC = () => {
                                 </div>
                             </div>
 
-                            <a
-                                href="https://zalo.me/0348296773"
-                                target="_blank"
-                                rel="noreferrer"
-                                className="flex items-center gap-3 bg-white text-primary hover:bg-teal-50 rounded-lg p-3 transition-all group"
-                            >
-                                <Phone className="w-5 h-5 flex-shrink-0 group-hover:rotate-12 transition-transform" />
-                                <div>
-                                    <div className="text-sm text-slate-500">Contact Zalo / Liên hệ Zalo</div>
-                                    <div className="font-bold text-lg">0348296773</div>
-                                </div>
-                                <ExternalLink className="w-4 h-4 ml-auto opacity-50" />
-                            </a>
+
                         </div>
                     </div>
                 </div>
@@ -177,12 +165,7 @@ const SupportPage: React.FC = () => {
                 </div>
             </div>
 
-            {/* Contact Footer */}
-            <div className="mt-8 text-center">
-                <p className="text-sm text-slate-500">
-                    Need more help? Contact via Zalo / Cần hỗ trợ thêm? Liên hệ Zalo: <strong className="text-primary">0348296773</strong>
-                </p>
-            </div>
+
         </div>
     );
 };
